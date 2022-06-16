@@ -1,5 +1,5 @@
 {
-    "posts": [
+    "members": [
       { "id": 1, "nama": "Putri Malik" ,"hubungan":"istri","nohp":"08520009091" },
       { "id": 2, "nama": "Nadine Chandrawinata" ,"hubungan":"anak kandung","nohp":"08520009092"},
       { "id": 3, "nama": "Ariel Noah" ,"hubungan":"anak kandung","nohp":"08520009093"}
